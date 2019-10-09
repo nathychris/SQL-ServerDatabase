@@ -1,2 +1,2 @@
 # SQL-ServerDatabase
-Scripts desenvolvido no curso Code Experience 2019
+Scripts Desenvolvido no Curso Code Experience 2019
